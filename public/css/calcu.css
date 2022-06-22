@@ -1,0 +1,92 @@
+body {
+	margin: 10px 300px;
+}
+.col1 {
+	background-color: grey;
+	color: white;
+	text-align: right;
+	padding-right: 10px;
+
+}
+.col2 {
+	background-color: #e0e0e0;
+	text-align: center;
+}
+.col3 {
+	background-color: #e0e0e0;
+	text-align: center;
+}
+.col4 {
+	background-color: #e0e0e0;
+	text-align: center;
+}
+.col5 {
+	background-color: #e0e0e0;
+	text-align: center;
+}
+.col6 {
+	background-color: #e0e0e0;
+	text-align: center;
+}
+.color1 {
+	background-color: #f5923d;
+	text-align: center;
+	color: white;
+	
+}
+.color2
+{	background-color:  #f5923d;
+	text-align: center;
+	color: white;
+}
+.color3 {
+	background-color:  #f5923d;
+	text-align: center;
+	color: white;
+}
+.color4 {
+	background-color:  #f5923d;
+	text-align: center;
+	color: white;
+}
+.color5 {
+	background-color:  #f5923d;
+	text-align: center;
+	color: white;
+}
+.i1 {
+	border: 1px solid lightgrey;
+}
+.i2 {
+	border: 1px solid lightgrey;
+}
+.i3 {
+	border: 1px solid lightgrey;
+}
+.i4 {
+	border: 1px solid lightgrey;
+}
+.i5 {
+	border: 1px solid lightgrey;
+}
+.i7 {
+	border: 1px solid lightgrey;
+}
+.i8 {
+	border: 1px solid lightgrey;
+}
+.i9 {
+	border: 1px solid lightgrey;
+}
+.i10 {
+	border: 1px solid lightgrey;
+}
+.i11 {
+	border: 1px solid lightgrey;
+}
+.i12 {
+	border: 1px solid lightgrey;
+}
+.i13 {
+	border: 1px solid lightgrey;
+}
